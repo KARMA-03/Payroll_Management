@@ -1,12 +1,13 @@
-package payroll.main;
+package payroll.model;
 
-// Name: Your Name
-// Student ID: Your Student ID
+/*
+Kayvian Johnson 2401010516
+Tassheca Mullings 2401010139
+Oneil Mullings 2301011592
+Shavoy Brown 2401010961
+Kyle Whitbly 2401010579
+*/
 // This is the main class that runs the payroll system.
-
-import payroll.model.Manager;
-import payroll.model.SalesRep;
-import payroll.model.StaffMember;
 
 import java.util.ArrayList;
 import java.io.FileWriter;

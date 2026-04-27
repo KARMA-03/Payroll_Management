@@ -1,7 +1,12 @@
-package payroll.main;
+package payroll.model;
 
-// Name: Your Name
-// Student ID: Your Student ID
+/*
+Kayvian Johnson 2401010516
+Tassheca Mullings 2401010139
+Oneil Mullings 2301011592
+Shavoy Brown 2401010961
+Kyle Whitbly 2401010579
+*/
 // This class represents a general staff member in the company.
 // It is abstract because every staff member must calculate salary differently.
 
